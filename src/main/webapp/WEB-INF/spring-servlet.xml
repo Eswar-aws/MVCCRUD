@@ -27,10 +27,10 @@
 		<property name="location" value="/WEB-INF/views.xml"></property>
 		</bean>
 				
-		 <bean id="viewResolver2" class="org.springframework.web.servlet.view.ResourceBundleViewResolver">
+		<!--   <bean id="viewResolver2" class="org.springframework.web.servlet.view.ResourceBundleViewResolver">
 		<property name="order" value="1"></property>
-		<property name="basename" value="views"></property>
-		</bean>
+		<property name="location" value="/WEB-INF/views"></property>
+		</bean> -->
 		
 		<bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">    
 		<property name="driverClassName" value="com.mysql.cj.jdbc.Driver"></property>    
