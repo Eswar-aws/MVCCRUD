@@ -18,6 +18,6 @@
 <tr><td>${b.id}</td><td>${b.title}</td><td>${b.author}</td><td>${b.publishdate}</td><td>${b.price}</td><td><p><a href="edit/${b.sno}">Edit</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="delete/${b.sno}">Delete</a></p></td></tr>
 </c:forEach>
 </table>
-<p align="center"><a href="excel">Excel</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="pdf">Pdf</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="email">Support</a></p>
+<p align="center"><a href="excel">Excel</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="email">Support</a></p>
 </body>
 </html>
