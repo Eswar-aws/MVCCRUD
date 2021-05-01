@@ -5,8 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.india.Spring</groupId>
-  <artifactId>Spring-MVC-CRUDSEARCH</artifactId>
-  <version></version>
+  <artifactId>Spring-MVC-CRUD</artifactId>
+  <version>SEARCH</version>
   <packaging>war</packaging>
 
   <name>Spring-MVC-CRUDSEARCH Maven Webapp</name>
