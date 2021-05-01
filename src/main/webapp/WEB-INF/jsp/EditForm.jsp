@@ -7,7 +7,7 @@
 </head>
 <body>
 <h2> Edit Book Details</h2>
-<form:form action="/Spring-MVC-CRUDSEARCH/editsave" method="post" modelAttribute="book">
+<form:form action="/Spring-MVC-CRUD-SEARCH/editsave" method="post" modelAttribute="book">
 
 <table border="2">
 
