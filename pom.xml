@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.india.Spring</groupId>
-  <artifactId>Spring-MVC-CRUD</artifactId>
+  <artifactId>SprinG-MVC-CRUD</artifactId>
   <version>SEARCH</version>
   <packaging>war</packaging>
 
